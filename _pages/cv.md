@@ -11,43 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Tech in Computer Science and Engineering, IIT Gandhinagar, 2024 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **DE Shaw**, hyderabad, software development intern *[May-June 2023]*
+  - Developed generalized ETL (extract, transform and load) pipeline to cover as many different data formats as possible to decrease workload of a team. Now they don't need to develop script for every different cases.
+  - Load data from csv to sql tables. CSV files comes in AWS S3 bucket and should be loaded in AWS Redshift. Learned both of the infrastrctures.
+  - Used python to develop the whole software. Developed highly scalable and maintainable software. Wrote unittests to ease out work for other members.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Problem solving, Competitive programming
+* Software development enginnering
+  * Machine Learning
+  * Software Development
+  * System Programming
+* Communication, Leadership
   
-Talks
+Projects
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -58,7 +40,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

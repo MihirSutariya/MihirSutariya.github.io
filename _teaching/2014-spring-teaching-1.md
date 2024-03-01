@@ -1,20 +1,11 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Data Strucutures and Algorithms"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IIT Gandhinagar"
+date: 2022-11-01
+location: "Gandhinagar, Gujarat"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Helped student as an ADH mentor of Data Strucutres and Algorithms Course. Organized sessions and cleared students doubts. Explained basic concepts of the course and prepared questions which can help them to understand course better.
